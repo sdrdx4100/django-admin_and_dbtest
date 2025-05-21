@@ -1,0 +1,1 @@
+# django-admin_and_dbtest
